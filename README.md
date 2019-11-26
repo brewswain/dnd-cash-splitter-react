@@ -12,6 +12,6 @@ of software development and willingly over-engineer the heck out of it.
 
 This code still needs A bunch of cleanup, but just knowing that it works and exists on:
 
-[dnd-cash-split.firebase.app](dnd-cash-split.firebase.app)
+[dnd-cash-split.firebase.app](https://dnd-cash-split.firebaseapp.com/)
 
 Is pretty satisfying to me tbh!
